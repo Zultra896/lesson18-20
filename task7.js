@@ -1,5 +1,5 @@
-let login = admin77
-let password = add777
+let login = "admin77"
+let password = "add777"
 
 let inputLogin = prompt("Enter your login")
 let inputPassword = prompt("Enter your password")
